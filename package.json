@@ -4,11 +4,14 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "inquirer": "^8.1.0"
+    "inquirer": "^8.1.0",
+    "js-markdown": "^1.1.5",
+    "markdown-js": "0.0.4"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
